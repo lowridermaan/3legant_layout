@@ -1,0 +1,38 @@
+.tagline {
+  position: relative;
+  padding: 0.8rem 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  background-color: #141718;
+  color: #ffff;
+  font-family: var(--font-main);
+  font-size: 1.4rem;
+
+  &__descr {
+    font-weight: 600;
+    line-height: 2.2rem;
+  }
+
+  &__link {
+    &:link,
+    &:visited {
+      color: var(--tagline-link);
+    }
+
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+
+    font-weight: 500;
+    line-height: 2.4rem;
+    border-bottom: 1px solid var(--tagline-link);
+  }
+
+  &__close {
+    position: absolute;
+    top: 1rem;
+    right: 1.6rem;
+  }
+}
