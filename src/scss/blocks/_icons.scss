@@ -3,22 +3,26 @@
   stroke: transparent;
   width: 2.4rem;
   height: 2.4rem;
-}
 
-.icon--ticket-percent {
-  fill: #ffff;
-}
+  &--arrow-right {
+    width: 1.8rem;
+    height: 1.8rem;
+    stroke: var(--tagline-link);
+  }
 
-.icon--arrow-right {
-  width: 1.8rem;
-  height: 1.8rem;
-  stroke: var(--tagline-link);
-}
+  &--ticket-percent {
+    fill: #ffff;
+  }
 
-.icon--close {
-  width: 2.2rem;
-  height: 2.2rem;
-  stroke: #343839;
-  justify-self: end;
-  align-self: end;
+  &--close {
+    width: 2.2rem;
+    height: 2.2rem;
+    stroke: #343839;
+  }
+
+  &--chevron {
+    width: 1.8rem;
+    height: 1.8rem;
+    stroke: #343839;
+  }
 }

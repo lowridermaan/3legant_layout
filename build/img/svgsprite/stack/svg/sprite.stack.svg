@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style>:root>svg{display:none}:root>svg:target{display:block}</style><svg fill="none" viewBox="0 0 18 18" id="arrow-right" xmlns="http://www.w3.org/2000/svg">
     <path d="M3.75 9h10.5M9.75 13.5l4.5-4.5M9.75 4.5l4.5 4.5" stroke="#FFAB00" stroke-width="1.125" stroke-linecap="round" stroke-linejoin="round"/>
+</svg><svg fill="none" viewBox="0 0 19 18" id="chevron" xmlns="http://www.w3.org/2000/svg">
+    <path d="m5.204 6.75 4.5 4.5 4.5-4.5" stroke="#141718" stroke-width="1.125" stroke-linecap="round" stroke-linejoin="round"/>
 </svg><svg fill="none" viewBox="0 0 20 20" id="close" xmlns="http://www.w3.org/2000/svg">
     <path d="M15.442 5.442a.625.625 0 1 0-.884-.884L10 9.116 5.442 4.558a.625.625 0 1 0-.884.884L9.116 10l-4.558 4.558a.625.625 0 1 0 .884.884L10 10.884l4.558 4.558a.625.625 0 1 0 .884-.884L10.884 10l4.558-4.558Z" fill="#343839"/>
 </svg><svg fill="none" viewBox="0 0 24 24" id="ticket-percent" xmlns="http://www.w3.org/2000/svg">
