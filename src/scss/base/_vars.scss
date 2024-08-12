@@ -1,6 +1,6 @@
 :root {
-  --container-width: 1200px;
-  --container-padding: 15px;
+  --container-padding: 3.2rem;
+  --container-width: calc(112rem + (var(--container-padding) * 2));
 
   --font-main: 'Inter', sans-serif;
   --font-accent: 'Poppins', sans-serif;
@@ -8,6 +8,7 @@
   --font-titles: var(--font-accent);
 
   --tagline-link: #ffab00;
+  --yellow: #ffc95c;
   --page-bg: #fff;
   --text-color: #000;
   --accent: #ac182c;

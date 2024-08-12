@@ -1,11 +1,22 @@
-.header__nav {
-}
 .nav {
-	font-size: 18px;
-}
-.nav__list {
-	display: flex;
-	column-gap: 30px;
-}
-.active {
+  padding: 1.8rem 0;
+  background-color: var(--yellow);
+
+  &__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__logo {
+    font-size: 2.4rem;
+    line-height: 2.4rem;
+    color: var(--text-color);
+  }
+
+  &__list {
+  }
+
+  &__btns {
+  }
 }
